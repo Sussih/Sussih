@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sussih
 - 👀 I’m interested in Coding, Business, and Investing
-- 🌱 I’m currently learning Python, JS, and C++
+- 🌱 I’m currently learning Full stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
